@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "company": "TechCorp Inc.",
+    "role": "Frontend Developer",
+    "status": "Interviewing",
+    "date": "2026-04-15",
+    "createdAt": "2026-04-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "company": "Innovate Solutions",
+    "role": "React Developer",
+    "status": "Applied",
+    "date": "2026-04-20",
+    "createdAt": "2026-04-20T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "company": "DataFlow Systems",
+    "role": "Full Stack Engineer",
+    "status": "Rejected",
+    "date": "2026-04-10",
+    "createdAt": "2026-04-10T09:00:00Z"
+  },
+  {
+    "id": "4",
+    "company": "CloudNine Tech",
+    "role": "UI/UX Developer",
+    "status": "Offered",
+    "date": "2026-04-25",
+    "createdAt": "2026-04-25T16:00:00Z"
+  },
+  {
+    "id": "5",
+    "company": "StartupXYZ",
+    "role": "Junior Developer",
+    "status": "Applied",
+    "date": "2026-04-28",
+    "createdAt": "2026-04-28T11:00:00Z"
+  },
+  {
+    "id": "6",
+    "company": "Enterprise Co.",
+    "role": "Software Engineer",
+    "status": "Interviewing",
+    "date": "2026-04-22",
+    "createdAt": "2026-04-22T13:00:00Z"
+  },
+  {
+    "id": "7",
+    "company": "Digital Agency",
+    "role": "Web Developer",
+    "status": "Applied",
+    "date": "2026-04-27",
+    "createdAt": "2026-04-27T15:00:00Z"
+  },
+  {
+    "id": "8",
+    "company": "FinTech Pro",
+    "role": "Frontend Engineer",
+    "status": "Rejected",
+    "date": "2026-04-18",
+    "createdAt": "2026-04-18T10:00:00Z"
+  }
+]
